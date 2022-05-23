@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+/* PAGE STYLE */
+
+input[type=text], 
+input[type=email],
+textarea{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type=text]:focus, 
+input[type=email]:focus,
+textarea:focus{
+  border: 3px solid #555;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table td{
+  text-align: right;
+  padding-right: 20px;
+}
+
+input[type=email]:invalid{
+  background-color: rgba(255, 0, 0, 0.212);
+}
+
+.send_button{
+  width: 50%;
+  margin: 8px 25%;
+  padding: 10px;
+}
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 500px) {
+
+  input[type=text], 
+  input[type=email],
+  textarea{
+      width: 300px;
+    }
+
+}
+
+@media screen and (min-width: 800px) {
+
+  input[type=text], 
+  input[type=email],
+  textarea{
+      width: 600px;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+
+  input[type=text], 
+  input[type=email],
+  textarea{
+      width: 800px;
+    }
+
+}
+

@@ -1,0 +1,24 @@
+alicia 
+
+etiqueta, daño toda linea si estàs en la misma linea
+
+
+walter 
+
+ocultamiento ip, se vuelve invisible al comienzo del combate ocultasndo su posiciojn hasta que se destruyan 2 servidores vpn
+ataque champions league = 13 daño
+
+
+
+Gustavo 
+
+memory leak, todo el equipo se olvida como castear spells durante un turno
+documentación, durante un turno jd aparece y suelta en una casilla random un GDD, si lo recoges gustavo hace 0 daño, si no recibes una buena hostia 
+
+
+
+Jaime 
+
+overflow 1 componente del equipo pierde un turno
+complemento A2, daño invertido, curan pegan y hostias curan
+cada turno gana un bit para pegar màs, hasta 1 daño, 3,7,15,31,63,127,255

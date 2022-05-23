@@ -1,0 +1,4 @@
+clear
+make clean
+g++ -c -o sqlite3.o ../src/sql/sqlite3.c -I../include/sql
+make -j 4

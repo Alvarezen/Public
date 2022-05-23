@@ -1,0 +1,9 @@
+compile_; //attack programador
+
+sketch_;//artist attack
+threedmodel_;//artist heavy attack
+
+graphicengine_;//TA attack
+
+newmap_;//designer attack
+funidea_;//designer heal

@@ -1,0 +1,47 @@
+"INSERT INTO ITEMS VALUES(
+1 ,'NOTEPAD', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+2 ,'ATOM', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+3 , 'VISUAL', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+4 , 'SQLSTUDIO', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+5 , 'KEYBOARD', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+6 , 'PHOTOSHOP', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+7 , 'ZBRUSH', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+8 , 'MAYA', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+9 , 'RPGGM', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+10 , 'COCOS2D', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+11 , 'TILEDMAP', 1, 1, 1, 1, 1, 1, 1, 1
+)";
+
+"INSERT INTO ITEMS VALUES(
+12 , 'UNREAL', 1, 1, 1, 1, 1, 1, 1, 1
+)";

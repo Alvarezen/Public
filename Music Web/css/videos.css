@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+.carousel{
+	position: relative;
+}
+
+.carousel_item{
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 720px;
+	background: grey;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	color: white;
+	display: none;
+}
+
+.carousel_item--selected{
+	display: block;
+}
+
+.carousel_nav{
+	width: 100%;
+	padding: 20px 0;
+	position: relative;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+.carousel_button{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	background: rgb(27, 27, 27, 0.3);
+	border-radius: 50%;
+	margin: 0 2px;
+	cursor: pointer;
+}
+
+.carousel_button--selected{
+	background: rgb(27, 27, 27, 0.75);
+}
+
+@media (max-width: 960px){
+
+	.carousel{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+
+	.carousel_item{
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+
+	.carousel_item, .carousel_item iframe{
+		height: 400px;
+	}
+
+}
+
+@media (max-width: 580px){
+
+	.carousel_item{
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+
+	.carousel_item, .carousel_item iframe{
+		height: 220px;
+	}
+
+	.carousel_button{
+		margin: 0 10px;
+		width: 20px;
+		height: 20px;
+	}
+
+}

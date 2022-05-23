@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+ol{
+  list-style: upper-roman;
+}
+ul{
+  list-style-type: disc;
+}

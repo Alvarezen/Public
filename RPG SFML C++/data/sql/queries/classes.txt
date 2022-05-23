@@ -1,0 +1,32 @@
+"INSERT INTO CLASSES (PROFESSION, HEALTH, MANA, ATTACK, DEFENSE, CRIT_ATTACK,
+DESCRIPTION)
+VALUES('Programmer', 100, 100, 100, 100, 100,
+'The Backend
+The last sentient pillar standing between machines and humans.
+Patient, resilient and absurdly wary of Artists and Designers.
+Love them or hate them, you will need at least
+one to pull through this madness.')";
+
+"INSERT INTO CLASSES (PROFESSION, HEALTH, MANA, ATTACK, DEFENSE, CRIT_ATTACK,
+DESCRIPTION)
+VALUES('Artist', 100, 100, 100, 100, 100,
+'The Virtuoso
+The most human part of a development team.
+Weird, original, see them as you like an artist || char(39) || s brain is fascinating and unique.
+Or maybe they are just crazy.
+Not really fond of computers but if you wanna really hit you || char(39) || ll need their stunning visuals')";
+
+"INSERT INTO CLASSES (PROFESSION, HEALTH, MANA, ATTACK, DEFENSE, CRIT_ATTACK,
+DESCRIPTION)
+VALUES('Designer', 100, 100, 100, 100, 100,
+'The Creator
+Creative, optimistic, witty, every team get better when they have a good Designer.
+Sometimes their ideas are a little too much but it || char(39) || s why you need them')";
+
+"INSERT INTO CLASSES (PROFESSION, HEALTH, MANA, ATTACK, DEFENSE, CRIT_ATTACK,
+DESCRIPTION)
+VALUES('Tech Artist', 100, 100, 100, 100, 100,
+'The Conductor
+Rare, resourceful, pragmatic, this element is the only member respected by everyone
+in the team. Usually.
+Logic as a programmer, creative as an artist. Needs lots of caffeine tho.')";
